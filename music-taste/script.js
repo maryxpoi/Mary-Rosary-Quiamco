@@ -99,7 +99,7 @@ try {
         sessionStorage.removeItem("lyrics");
     }
 } catch (error) {
-       play("./resources/Back To December (lyrics) - Taylor Swift.mp3","Back To December - Taylor Swift","music-taste-2019.netlify.app/lyrics/back to december.txt");
+      
 }
 
-play("./resources/Back To December (lyrics) - Taylor Swift.mp3","Back To December - Taylor Swift","music-taste-2019.netlify.app/lyrics/back to december.txt");
+
